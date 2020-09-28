@@ -1,2 +1,2 @@
 # DockTra
-It is related to docker and travis with Golang
+It is related to docker and travis with Golangs
